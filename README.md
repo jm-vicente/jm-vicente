@@ -1,5 +1,5 @@
 
-# Hi, I'm Myka Vicente! 👋
+# Hi, I'm Myka! 👋
 
 ### Automation Engineering | Data Analytics | AI Integration
 
